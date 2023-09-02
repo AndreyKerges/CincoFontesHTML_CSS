@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bodoni+Moda:opsz@6..96&family=Caveat&family=Libre+Baskerville&family=Lobster&display=swap');
+
+body{
+height: 95vh;
+display: flex;
+justify-content: center;
+background-image: linear-gradient(90deg, #282C45, black);
+}
+
+.corpo:hover{
+    background-color: black;
+    color: #FF0068;
+    border: 2px solid white ;
+    transition: 0.7s;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.cabecalho{
+    margin-bottom: 15px;
+    font-size: 40px;
+    color: #FF0068;
+}
+
+.corpo{
+    border-radius: 15px;
+    padding: 15px;
+    width: none;
+    background-color: #FF0068;
+    color: black;
+}
+
+p{
+    font-size: 20px;
+}
+
+.one{
+    font-family: 'Bodoni Moda', serif;
+}
+
+.two{
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+}
+
+.tree{
+    font-family: 'Caveat', cursive;
+}
+
+.four{
+    font-family: 'Lobster', cursive;
+}
+
+.five{
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+
+
