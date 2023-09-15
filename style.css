@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bodoni+Moda:opsz@6..96&family=Caveat&family=Libre+Baskerville&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imbue:opsz,wght@10..100,200&family=Montserrat:wght@100&family=Playfair+Display&family=Roboto+Mono:ital,wght@1,300&family=Satisfy&display=swap');
 
 body{
 height: 95vh;
@@ -41,24 +41,28 @@ p{
 }
 
 .one{
-    font-family: 'Bodoni Moda', serif;
+    font-family: 'Imbue', fantasy;
+    font-weight: 900;
 }
 
 .two{
-    font-family: 'Amatic SC', cursive;
-    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
 }
 
 .tree{
-    font-family: 'Caveat', cursive;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
 }
 
 .four{
-    font-family: 'Lobster', cursive;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 900;
 }
 
 .five{
-    font-family: 'Libre Baskerville', serif;
+font-family: 'Satisfy', cursive;
+    font-weight: 900;
 }
 
 
